@@ -25,7 +25,7 @@ Must define vocabulary size, input data path, and output directory path. The `IN
 
 ### 2.1 Running on Bridges
 
-The bash script **vocabulary.sh** runs **build_vocabulary.py** on Bridges. The file paths and vocabulary size parameter are hard-coded in **build_vocabulary.py**. 
+The bash script **build_vocabulary.sh** runs **build_vocabulary.py** on Bridges. The file paths and vocabulary size parameter are hard-coded in **build_vocabulary.py**. 
 
 ```
 VOCAB_SIZE=4096
