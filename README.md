@@ -1,6 +1,6 @@
 This repository includes Colab notebooks for building and running a Bacterial DNA tokenizer, as well as analyzing and comparing results.
 
-This code was used for my undergraduate thesis and my contributions to the following publications:
+This code was used for my undergraduate thesis and my contributions to the following papers:
 - [Exploring the Embedding Methods in Genomic Language Models](https://www.cs.utah.edu/research/technical-reports/) (My Thesis)
 - [A Comparison of Tokenization Impact in Attention Based and State Space Genomic Language Models](https://www.biorxiv.org/content/10.1101/2024.09.09.612081v1)
 
